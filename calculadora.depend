@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1682726969 source:c:\users\adalb\onedrive\햞ea de trabalho\calculadora\include\include.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1682734583 source:c:\users\adalb\onedrive\햞ea de trabalho\calculadora\main.c
+	"include/operacoes.h"
+
+1682726969 c:\users\adalb\onedrive\햞ea de trabalho\calculadora\include\include.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1682731903 c:\users\adalb\onedrive\햞ea de trabalho\calculadora\include\operacoes.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1682727421 c:\users\adalb\onedrive\햞ea de trabalho\calculadora\lib\operacoes.c
+
+1682731903 source:c:\users\adalb\onedrive\햞ea de trabalho\calculadora\lib\operacoes.c
+
